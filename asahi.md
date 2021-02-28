@@ -1,6 +1,7 @@
 ---
 title: 朝日社
 layout: page
+permalink: /asahi/
 ---
 {% for category in site.categories %}
   {% if category.first == "asahi" %}
